@@ -36,3 +36,7 @@ After talking to the managers and database administrators, you've drawn up brief
   - ```videos_count``` — the number of videos in the trending section
 - The table is stored in the data-analyst-youtube-data. database, which was created especially for your needs
 - Data update interval: once every 24 hours, at midnight UTC
+
+
+## Link to Tableau:
+https://public.tableau.com/app/profile/olga6173/viz/YandexPracticum_16471802643750/ AnalyzingTrendingVideosonYoutube
