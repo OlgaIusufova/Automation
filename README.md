@@ -39,4 +39,4 @@ After talking to the managers and database administrators, you've drawn up brief
 
 
 ## Link to Tableau:
-https://public.tableau.com/app/profile/olga6173/viz/YandexPracticum_16471802643750/ AnalyzingTrendingVideosonYoutube
+https://public.tableau.com/app/profile/olga6173/viz/YandexPracticum_16471802643750/AnalyzingTrendingVideosonYoutube
